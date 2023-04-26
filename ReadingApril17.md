@@ -63,6 +63,7 @@ Cite Number: 20
 *Nicola De Cao, Gautier Izacard, Sebastian Riedel, Fabio Petroni*  
 ICLR 2021 – Oct 2020 [[paper](https://arxiv.org/pdf/2010.00904.pdf)] [[Code](https://github.com/facebookresearch/GENRE)]
 Cite Number: 188
+**Marked**
 
 ### Applications
 
