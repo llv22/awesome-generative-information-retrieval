@@ -35,10 +35,6 @@ Arxiv 2022 [[paper](https://arxiv.org/abs/2206.02743)]
 *Shengyao Zhuang, Houxing Ren, Linjun Shou, Jian Pei, Ming Gong, Guido Zuccon, and Daxin Jiang*  
 Arxiv 2022 [[paper](https://arxiv.org/abs/2206.10128)] [[Code](https://github.com/ArvinZhuang/DSI-transformers)]
 
-**DynamicRetriever: A Pre-training Model-based IR System with Neither Sparse nor Dense Index**  
-*Zhou et al*  
-Arxiv 2022 [[paper](https://arxiv.org/pdf/2203.00537.pdf)]
-
 **Ultron: An Ultimate Retriever on Corpus with a Model-based Indexer**  
 *Zhou et al*  
 Arxiv 2022 [[paper](https://arxiv.org/pdf/2208.09257.pdf)]
