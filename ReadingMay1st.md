@@ -1,4 +1,4 @@
-# Reading paper for Week April 17th - 22th
+# Reading paper for Week May 1st - 14th
 
 
 ## Generative Document Retrieval
